@@ -1,2 +1,2 @@
-On master branch, adding text to create conflix with fix branch
+On master branch (and fix) this is the first line of the third fix
 Second line, master branch
